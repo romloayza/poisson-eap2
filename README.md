@@ -2,6 +2,7 @@
 
 | **Variable**         | **Descripción**                                                                                         |
 |----------------------|---------------------------------------------------------------------------------------------------------|
+| **Ubigeo**   | Código de Ubicación Geográfica del INEI                                                                          |
 | **Analfa_Total**   | Cantidad de personas analfabetas de 15 años a más                                                                          |
 | **Pared_Insegura**  | Porcentaje de viviendas que tienen la pared construida con material poco resistente                          |
 | **Techo_Inseguro**     | Porcentaje de viviendas que tienen el techo construido con material poco resistente                                      |
