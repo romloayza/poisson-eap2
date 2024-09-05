@@ -14,4 +14,5 @@ https://romloayza.github.io/poisson-eap2/
 
 # Fuentes:
 Sistema de Información Distrital para la Gestión Pública - https://estadist.inei.gob.pe/report 
-Censo Nacional 2017. Sistema de Consulta de Base de Datos
+
+Censo Nacional 2017. Sistema de Consulta de Base de Datos - https://censos2017.inei.gob.pe/redatam/
